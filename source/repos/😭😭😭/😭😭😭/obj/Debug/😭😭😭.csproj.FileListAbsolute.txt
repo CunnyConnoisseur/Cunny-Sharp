@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\bin\Debug\😭😭😭.exe.config
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\bin\Debug\😭😭😭.exe
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\bin\Debug\😭😭😭.pdb
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\obj\Debug\😭😭😭.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\obj\Debug\😭😭😭.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\obj\Debug\😭😭😭.exe
+C:\Users\kevin\source\repos\😭😭😭\😭😭😭\obj\Debug\😭😭😭.pdb

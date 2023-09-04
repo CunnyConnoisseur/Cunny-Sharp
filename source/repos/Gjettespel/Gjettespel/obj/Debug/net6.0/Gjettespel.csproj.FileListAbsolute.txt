@@ -1,0 +1,14 @@
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\bin\Debug\net6.0\Gjettespel.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\bin\Debug\net6.0\Gjettespel.deps.json
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\bin\Debug\net6.0\Gjettespel.runtimeconfig.json
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\bin\Debug\net6.0\Gjettespel.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\bin\Debug\net6.0\Gjettespel.pdb
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.AssemblyInfoInputs.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.AssemblyInfo.cs
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.csproj.CoreCompileInputs.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\refint\Gjettespel.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.pdb
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\Gjettespel.genruntimeconfig.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Gjettespel\Gjettespel\obj\Debug\net6.0\ref\Gjettespel.dll
