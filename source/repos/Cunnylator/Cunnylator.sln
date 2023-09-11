@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cunnylator", "Cunnylator\Cunnylator.csproj", "{E6FCDC8D-D5E2-4EC4-B8EC-A68D8EB34DC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cunnylator", "Cunnylator\Cunnylator.csproj", "{201CA6C2-817B-42F2-BA72-BC8F166FF64E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6FCDC8D-D5E2-4EC4-B8EC-A68D8EB34DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6FCDC8D-D5E2-4EC4-B8EC-A68D8EB34DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6FCDC8D-D5E2-4EC4-B8EC-A68D8EB34DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6FCDC8D-D5E2-4EC4-B8EC-A68D8EB34DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201CA6C2-817B-42F2-BA72-BC8F166FF64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201CA6C2-817B-42F2-BA72-BC8F166FF64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201CA6C2-817B-42F2-BA72-BC8F166FF64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201CA6C2-817B-42F2-BA72-BC8F166FF64E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3482C8F4-1C31-4B58-9304-FB58F02F7A65}
+		SolutionGuid = {6EB7739C-C501-428D-B664-6D01C33E4E06}
 	EndGlobalSection
 EndGlobal

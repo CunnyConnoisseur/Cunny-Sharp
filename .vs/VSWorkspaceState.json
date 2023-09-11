@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\source",
-    "\\source\\repos"
+    "\\source\\repos",
+    "\\source\\repos\\Cunnylator",
+    "\\source\\repos\\Cunnylator\\Cunnylator"
   ],
-  "SelectedNode": "\\source\\repos",
+  "SelectedNode": "\\source\\repos\\Cunnylator",
   "PreviewInSolutionExplorer": false
 }
