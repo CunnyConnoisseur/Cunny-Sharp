@@ -1,0 +1,10 @@
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.csproj.AssemblyReference.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.Form1.resources
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.Properties.Resources.resources
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.csproj.GenerateResource.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.csproj.CoreCompileInputs.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\bin\Debug\Cunnylator2.exe.config
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\bin\Debug\Cunnylator2.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\bin\Debug\Cunnylator2.pdb
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator2\Cunnylator2\obj\Debug\Cunnylator2.pdb

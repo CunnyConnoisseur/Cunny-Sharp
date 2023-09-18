@@ -38,14 +38,14 @@
             button7 = new Button();
             button8 = new Button();
             button9 = new Button();
-            button10 = new Button();
-            button11 = new Button();
-            button12 = new Button();
-            button14 = new Button();
-            button15 = new Button();
+            buttonminus = new Button();
+            buttonplus = new Button();
+            buttonequal = new Button();
+            buttonmultiplication = new Button();
+            buttondivide = new Button();
             textBox1 = new TextBox();
-            button13 = new Button();
-            button16 = new Button();
+            button0 = new Button();
+            buttonClear = new Button();
             pictureBox2 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -140,55 +140,55 @@
             button9.UseVisualStyleBackColor = true;
             button9.Click += button9_Click;
             // 
-            // button10
+            // buttonminus
             // 
-            button10.Location = new Point(459, 163);
-            button10.Name = "button10";
-            button10.Size = new Size(98, 82);
-            button10.TabIndex = 9;
-            button10.Text = "-";
-            button10.UseVisualStyleBackColor = true;
-            button10.Click += button10_Click;
+            buttonminus.Location = new Point(459, 163);
+            buttonminus.Name = "buttonminus";
+            buttonminus.Size = new Size(98, 82);
+            buttonminus.TabIndex = 9;
+            buttonminus.Text = "-";
+            buttonminus.UseVisualStyleBackColor = true;
+            buttonminus.Click += buttonMinus_Click;
             // 
-            // button11
+            // buttonplus
             // 
-            button11.Location = new Point(459, 251);
-            button11.Name = "button11";
-            button11.Size = new Size(98, 82);
-            button11.TabIndex = 10;
-            button11.Text = "+";
-            button11.UseVisualStyleBackColor = true;
-            button11.Click += button11_Click;
+            buttonplus.Location = new Point(459, 251);
+            buttonplus.Name = "buttonplus";
+            buttonplus.Size = new Size(98, 82);
+            buttonplus.TabIndex = 10;
+            buttonplus.Text = "+";
+            buttonplus.UseVisualStyleBackColor = true;
+            buttonplus.Click += buttonPlus_Click;
             // 
-            // button12
+            // buttonequal
             // 
-            button12.Location = new Point(459, 339);
-            button12.Name = "button12";
-            button12.Size = new Size(98, 82);
-            button12.TabIndex = 11;
-            button12.Text = "=";
-            button12.UseVisualStyleBackColor = true;
-            button12.Click += button12_Click;
+            buttonequal.Location = new Point(459, 339);
+            buttonequal.Name = "buttonequal";
+            buttonequal.Size = new Size(202, 82);
+            buttonequal.TabIndex = 11;
+            buttonequal.Text = "=";
+            buttonequal.UseVisualStyleBackColor = true;
+            buttonequal.Click += buttonEqual_Click;
             // 
-            // button14
+            // buttonmultiplication
             // 
-            button14.Location = new Point(563, 251);
-            button14.Name = "button14";
-            button14.Size = new Size(98, 82);
-            button14.TabIndex = 13;
-            button14.Text = "*";
-            button14.UseVisualStyleBackColor = true;
-            button14.Click += button14_Click;
+            buttonmultiplication.Location = new Point(563, 251);
+            buttonmultiplication.Name = "buttonmultiplication";
+            buttonmultiplication.Size = new Size(98, 82);
+            buttonmultiplication.TabIndex = 13;
+            buttonmultiplication.Text = "*";
+            buttonmultiplication.UseVisualStyleBackColor = true;
+            buttonmultiplication.Click += buttonMultiplication_Click;
             // 
-            // button15
+            // buttondivide
             // 
-            button15.Location = new Point(563, 163);
-            button15.Name = "button15";
-            button15.Size = new Size(98, 82);
-            button15.TabIndex = 12;
-            button15.Text = "/";
-            button15.UseVisualStyleBackColor = true;
-            button15.Click += button15_Click;
+            buttondivide.Location = new Point(563, 163);
+            buttondivide.Name = "buttondivide";
+            buttondivide.Size = new Size(98, 82);
+            buttondivide.TabIndex = 12;
+            buttondivide.Text = "/";
+            buttondivide.UseVisualStyleBackColor = true;
+            buttondivide.Click += buttonDivide_Click;
             // 
             // textBox1
             // 
@@ -198,25 +198,25 @@
             textBox1.TabIndex = 14;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
-            // button13
+            // button0
             // 
-            button13.Location = new Point(148, 339);
-            button13.Name = "button13";
-            button13.Size = new Size(98, 82);
-            button13.TabIndex = 15;
-            button13.Text = "0";
-            button13.UseVisualStyleBackColor = true;
-            button13.Click += button13_Click;
+            button0.Location = new Point(148, 339);
+            button0.Name = "button0";
+            button0.Size = new Size(98, 82);
+            button0.TabIndex = 15;
+            button0.Text = "0";
+            button0.UseVisualStyleBackColor = true;
+            button0.Click += button0_Click;
             // 
-            // button16
+            // buttonClear
             // 
-            button16.Location = new Point(459, 75);
-            button16.Name = "button16";
-            button16.Size = new Size(98, 82);
-            button16.TabIndex = 16;
-            button16.Text = "<-";
-            button16.UseVisualStyleBackColor = true;
-            button16.Click += button16_Click;
+            buttonClear.Location = new Point(459, 75);
+            buttonClear.Name = "buttonClear";
+            buttonClear.Size = new Size(202, 82);
+            buttonClear.TabIndex = 16;
+            buttonClear.Text = "C";
+            buttonClear.UseVisualStyleBackColor = true;
+            buttonClear.Click += button1C_Click;
             // 
             // pictureBox2
             // 
@@ -235,14 +235,14 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button16);
-            Controls.Add(button13);
+            Controls.Add(buttonClear);
+            Controls.Add(button0);
             Controls.Add(textBox1);
-            Controls.Add(button14);
-            Controls.Add(button15);
-            Controls.Add(button12);
-            Controls.Add(button11);
-            Controls.Add(button10);
+            Controls.Add(buttonmultiplication);
+            Controls.Add(buttondivide);
+            Controls.Add(buttonequal);
+            Controls.Add(buttonplus);
+            Controls.Add(buttonminus);
             Controls.Add(button7);
             Controls.Add(button8);
             Controls.Add(button9);
@@ -272,14 +272,14 @@
         private Button button7;
         private Button button8;
         private Button button9;
-        private Button button10;
-        private Button button11;
-        private Button button12;
-        private Button button14;
-        private Button button15;
+        private Button buttonminus;
+        private Button buttonplus;
+        private Button buttonequal;
+        private Button buttonmultiplication;
+        private Button buttondivide;
         private TextBox textBox1;
-        private Button button13;
-        private Button button16;
+        private Button button0;
+        private Button buttonClear;
         private PictureBox pictureBox2;
     }
 }

@@ -43,13 +43,16 @@
             this.Number2.Name = "Number2";
             this.Number2.Size = new System.Drawing.Size(100, 20);
             this.Number2.TabIndex = 0;
+            this.Number2.TextChanged += new System.EventHandler(this.Number2_TextChanged);
             // 
             // Svar
             // 
             this.Svar.Location = new System.Drawing.Point(201, 238);
             this.Svar.Name = "Svar";
+            this.Svar.ReadOnly = true;
             this.Svar.Size = new System.Drawing.Size(100, 20);
             this.Svar.TabIndex = 1;
+            this.Svar.TextChanged += new System.EventHandler(this.Svar_TextChanged);
             // 
             // Number1
             // 
@@ -77,6 +80,7 @@
             this.button2.TabIndex = 4;
             this.button2.Text = "-";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -86,6 +90,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "/";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -95,6 +100,7 @@
             this.button4.TabIndex = 6;
             this.button4.Text = "*";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // Form1
             // 

@@ -56,12 +56,12 @@ namespace Cunnylator
             textBox1.Text = textBox1.Text + 9;
         }
 
-        private void button13_Click(object sender, EventArgs e)
+        private void button0_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + 0;
         }
 
-        private void button10_Click(object sender, EventArgs e)
+        private void buttonMinus_Click(object sender, EventArgs e)
         {
             if (textBox1.Text != "")
             {
@@ -72,7 +72,7 @@ namespace Cunnylator
             }
         }
 
-        private void button11_Click(object sender, EventArgs e)
+        private void buttonPlus_Click(object sender, EventArgs e)
         {
             num1 = float.Parse(textBox1.Text);
             textBox1.Clear();
@@ -80,7 +80,7 @@ namespace Cunnylator
             count = 2;
         }
 
-        private void button12_Click(object sender, EventArgs e)
+        private void buttonEqual_Click(object sender, EventArgs e)
         {
             compute(count);
         }
@@ -111,7 +111,7 @@ namespace Cunnylator
         }
 
 
-        private void button15_Click(object sender, EventArgs e)
+        private void buttonDivide_Click(object sender, EventArgs e)
         {
             num1 = float.Parse(textBox1.Text);
             textBox1.Clear();
@@ -119,7 +119,7 @@ namespace Cunnylator
             count = 4;
         }
 
-        private void button14_Click(object sender, EventArgs e)
+        private void buttonMultiplication_Click(object sender, EventArgs e)
         {
             num1 = float.Parse(textBox1.Text);
             textBox1.Clear();
@@ -132,7 +132,7 @@ namespace Cunnylator
 
         }
 
-        private void button16_Click(object sender, EventArgs e)
+        private void button1C_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
             count = 0;

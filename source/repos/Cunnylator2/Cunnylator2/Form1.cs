@@ -17,15 +17,50 @@ namespace Cunnylator2
         {
             InitializeComponent();
         }
+        double Ans = 0.0;
+
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Number1.Text = WriteLine("");
+           Svar.Clear();
+           Ans = (Convert.ToDouble(Number1.Text) + Convert.ToDouble(Number2.Text));
+           Svar.Text = Ans.ToString();
         }
 
         private void Number1_TextChanged(object sender, EventArgs e)
         {
+            
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Svar.Clear();
+            Ans = (Convert.ToDouble(Number1.Text) - Convert.ToDouble(Number2.Text));
+            Svar.Text = Ans.ToString();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Svar.Clear();
+            Ans = (Convert.ToDouble(Number1.Text) / Convert.ToDouble(Number2.Text));
+            Svar.Text = Ans.ToString();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Svar.Clear();
+            Ans = (Convert.ToDouble(Number1.Text) * Convert.ToDouble(Number2.Text));
+            Svar.Text = Ans.ToString();
+        }
+
+        private void Number2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Svar_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

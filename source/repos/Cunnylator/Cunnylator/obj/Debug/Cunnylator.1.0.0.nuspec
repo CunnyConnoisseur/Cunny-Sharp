@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cunnylator</id>
+    <version>1.0.0</version>
+    <authors>Cunnylator</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Debug\net6.0-windows\Cunnylator.runtimeconfig.json" target="lib\net6.0-windows7.0\Cunnylator.runtimeconfig.json" />
+    <file src="C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Debug\net6.0-windows\Cunnylator.dll" target="lib\net6.0-windows7.0\Cunnylator.dll" />
+  </files>
+</package>

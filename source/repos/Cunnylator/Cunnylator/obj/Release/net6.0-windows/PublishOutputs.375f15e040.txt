@@ -1,0 +1,5 @@
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\publish\Cunnylator.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\publish\Cunnylator.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\publish\Cunnylator.deps.json
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\publish\Cunnylator.runtimeconfig.json
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\publish\Cunnylator.pdb

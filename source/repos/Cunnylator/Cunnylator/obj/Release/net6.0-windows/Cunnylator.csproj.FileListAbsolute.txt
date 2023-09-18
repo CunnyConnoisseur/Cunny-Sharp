@@ -1,0 +1,17 @@
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\Cunnylator.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\Cunnylator.deps.json
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\Cunnylator.runtimeconfig.json
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\Cunnylator.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\bin\Release\net6.0-windows\Cunnylator.pdb
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.Form1.resources
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.Properties.Resources.resources
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.csproj.GenerateResource.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.AssemblyInfoInputs.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.AssemblyInfo.cs
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.csproj.CoreCompileInputs.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\refint\Cunnylator.dll
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.pdb
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\Cunnylator.genruntimeconfig.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\Cunnylator\Cunnylator\obj\Release\net6.0-windows\ref\Cunnylator.dll
