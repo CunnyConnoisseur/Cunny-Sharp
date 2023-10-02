@@ -1,0 +1,10 @@
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\bin\Debug\CunnyGrouping.exe.config
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\bin\Debug\CunnyGrouping.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\bin\Debug\CunnyGrouping.pdb
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.csproj.AssemblyReference.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.Form1.resources
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.Properties.Resources.resources
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.csproj.GenerateResource.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.csproj.CoreCompileInputs.cache
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.exe
+C:\Githubstuff\Cunny-Sharp\source\repos\CunnyGrouping\CunnyGrouping\obj\Debug\CunnyGrouping.pdb
