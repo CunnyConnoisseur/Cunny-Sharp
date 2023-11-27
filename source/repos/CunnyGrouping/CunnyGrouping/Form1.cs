@@ -17,6 +17,10 @@ namespace CunnyGrouping
             InitializeComponent();
         }
 
+        List<string> namn = new List<string>();
+
+        Int32 mengde = 1;
+
         private void textBoxEnter_TextChanged(object sender, EventArgs e)
         {
 
@@ -24,7 +28,7 @@ namespace CunnyGrouping
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            mengde = Convert.ToInt32(textBoxAmount.Text);
         }
 
         private void textBoxAmount_TextChanged(object sender, EventArgs e)
@@ -40,6 +44,18 @@ namespace CunnyGrouping
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonEnterNames_Click(object sender, EventArgs e)
+        {
+            namn.Add(textBoxEnter.Text);
+            textBoxEnter.Clear();
+            textBoxGenerator.Text = namn;
         }
     }
 }

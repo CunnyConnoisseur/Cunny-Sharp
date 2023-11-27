@@ -35,7 +35,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.buttonEnterNames = new System.Windows.Forms.Button();
-            this.buttonEnterGroup = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonGenerate
@@ -71,6 +70,7 @@
             this.textBoxAmount.Name = "textBoxAmount";
             this.textBoxAmount.Size = new System.Drawing.Size(275, 20);
             this.textBoxAmount.TabIndex = 4;
+            this.textBoxAmount.Text = "1";
             this.textBoxAmount.TextChanged += new System.EventHandler(this.textBoxAmount_TextChanged);
             // 
             // label1
@@ -91,6 +91,7 @@
             this.label2.Size = new System.Drawing.Size(100, 13);
             this.label2.TabIndex = 6;
             this.label2.Text = "Enter group amount";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // buttonEnterNames
             // 
@@ -100,22 +101,13 @@
             this.buttonEnterNames.TabIndex = 7;
             this.buttonEnterNames.Text = "Enter";
             this.buttonEnterNames.UseVisualStyleBackColor = true;
-            // 
-            // buttonEnterGroup
-            // 
-            this.buttonEnterGroup.Location = new System.Drawing.Point(69, 325);
-            this.buttonEnterGroup.Name = "buttonEnterGroup";
-            this.buttonEnterGroup.Size = new System.Drawing.Size(69, 36);
-            this.buttonEnterGroup.TabIndex = 8;
-            this.buttonEnterGroup.Text = "Enter";
-            this.buttonEnterGroup.UseVisualStyleBackColor = true;
+            this.buttonEnterNames.Click += new System.EventHandler(this.buttonEnterNames_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.buttonEnterGroup);
             this.Controls.Add(this.buttonEnterNames);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -139,7 +131,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button buttonEnterNames;
-        private System.Windows.Forms.Button buttonEnterGroup;
     }
 }
 
